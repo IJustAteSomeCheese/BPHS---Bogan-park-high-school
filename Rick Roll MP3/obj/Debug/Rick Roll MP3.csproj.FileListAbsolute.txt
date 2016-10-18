@@ -1,0 +1,14 @@
+E:\1-Programing and Game Dev\0-Good\C#\Rick Roll\Rick Roll\Rick Roll MP3\bin\Debug\Rick Roll MP3.exe.config
+E:\1-Programing and Game Dev\0-Good\C#\Rick Roll\Rick Roll\Rick Roll MP3\bin\Debug\Rick Roll MP3.exe
+E:\1-Programing and Game Dev\0-Good\C#\Rick Roll\Rick Roll\Rick Roll MP3\bin\Debug\Rick Roll MP3.pdb
+E:\1-Programing and Game Dev\0-Good\C#\Rick Roll\Rick Roll\Rick Roll MP3\obj\Debug\Rick Roll MP3.csprojResolveAssemblyReference.cache
+E:\1-Programing and Game Dev\0-Good\C#\Rick Roll\Rick Roll\Rick Roll MP3\obj\Debug\Rick_Roll_MP3.Form1.resources
+E:\1-Programing and Game Dev\0-Good\C#\Rick Roll\Rick Roll\Rick Roll MP3\obj\Debug\Rick_Roll_MP3.Properties.Resources.resources
+E:\1-Programing and Game Dev\0-Good\C#\Rick Roll\Rick Roll\Rick Roll MP3\obj\Debug\Rick Roll MP3.csproj.GenerateResource.Cache
+E:\1-Programing and Game Dev\0-Good\C#\Rick Roll\Rick Roll\Rick Roll MP3\obj\Debug\Rick Roll MP3.exe
+E:\1-Programing and Game Dev\0-Good\C#\Rick Roll\Rick Roll\Rick Roll MP3\obj\Debug\Rick Roll MP3.pdb
+E:\1-Programing and Game Dev\0-Good\C#\Rick Roll\Rick Roll\Rick Roll MP3\bin\Debug\Interop.WMPLib.dll
+E:\1-Programing and Game Dev\0-Good\C#\Rick Roll\Rick Roll\Rick Roll MP3\bin\Debug\AxInterop.WMPLib.dll
+E:\1-Programing and Game Dev\0-Good\C#\Rick Roll\Rick Roll\Rick Roll MP3\obj\Debug\Interop.WMPLib.dll
+E:\1-Programing and Game Dev\0-Good\C#\Rick Roll\Rick Roll\Rick Roll MP3\obj\Debug\AxInterop.WMPLib.dll
+E:\1-Programing and Game Dev\0-Good\C#\Rick Roll\Rick Roll\Rick Roll MP3\obj\Debug\Rick Roll MP3.csproj.ResolveComReference.cache
